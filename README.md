@@ -146,7 +146,6 @@ Sample Output:
 ```json
 Case 1:
 a 1
-contested 0
 Case 2:
 a 1
 b 1
