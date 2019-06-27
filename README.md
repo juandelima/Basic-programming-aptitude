@@ -143,8 +143,8 @@ Sample Input:
 ```
 Sample Output:
 
-Case 1:
 ```json
+Case 1:
 a 1
 contested 0
 Case 2:
