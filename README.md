@@ -1,1 +1,1 @@
-# Basic-programming-aptitude---Coding-section
+# Basic-programming-aptitude - Coding-section
